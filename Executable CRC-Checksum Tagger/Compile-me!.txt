@@ -1,0 +1,5 @@
+
+IMPORTANT NOTE
+-----------------------------------------------------------------------------
+Due to virus concerns, a precompiled executable was not included. The project, 
+however, is ready to compile - make the EXE and go.
